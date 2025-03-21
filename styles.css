@@ -1,0 +1,11 @@
+/* Estilos del pie de página */
+footer {
+    text-align: center; /* Centra el texto */
+    margin-top: 20px; /* Espaciado superior */
+    padding: 10px 0; /* Espaciado interno */
+    background-color: #000000; /* Fondo verde */
+    color: white; /* Texto blanco */
+    position: relative; /* Posición relativa */
+    bottom: 0; /* Ubicado en la parte inferior */
+    width: 100%; /* Ancho completo */
+}
